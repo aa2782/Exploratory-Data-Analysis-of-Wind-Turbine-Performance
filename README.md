@@ -6,11 +6,12 @@ sources are being turned to as alternatives to the burning of fossil fuels to pr
 major challenge in environmental engineering is that different regions require different renewable 
 energy platforms depending on their weather and climate. One such promising technology in areas 
 that can support it is wind energy, which, as may be expected, requires a lot of wind on a regular 
-basis. The underpinning of wind energy technology is the use of wine turbines to convert the 
+basis. The underpinning of wind energy technology is the use of wind turbines to convert the 
 kinetic energy of wind to electrical energy via a generator.
 Data is constantly collected from wind turbines and used to improve their capabilities. One 
 such data set is provided here and consists of real measurements taken from a single wind turbine 
 in Turkey over the course of a year.
+
 
 Discipline Specific Information: 
 
